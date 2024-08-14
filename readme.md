@@ -5,19 +5,22 @@
 ## Description
 
 We are learning a little bit of Git.
-No source code but simple text files (of markdown files).
+No source code but simple text files (or markdown files).
 
 ## Getting Started
 
+* Create a text file and add to repository
+* Create a branch and add a text file
+* Modify files, show diffs, commit
+* Fetch and push to remote repository
+* Commands: status, log
+* Merge
+* …
+
+
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+---
 
 ## Help
 
@@ -37,11 +40,11 @@ command to run if program contains helper info
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the [Unlicense](https://spdx.org/licenses/Unlicense.html).
 
 ## Acknowledgments
 
-Inspiration, code snippets, etc.
+Inspiration, help etc.
 * [GitLab Learn Git](https://docs.gitlab.com/ee/topics/git/)
 * [Git Docs](https://git-scm.com)
 * [GitLab Personal Access Token (PAT)](https://gitlab.gwdg.de/help/user/profile/personal_access_tokens.md)
