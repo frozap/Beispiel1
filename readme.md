@@ -1,6 +1,6 @@
 # Project Title
 
-"Beispiel1" - The First Example of a Git Repository.
+"Example1" - The First Example of a Git Repository.
 
 ## Description
 
